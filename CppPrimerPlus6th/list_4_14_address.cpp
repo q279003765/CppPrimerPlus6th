@@ -9,6 +9,8 @@
 #include "list_4_14_address.hpp"
 #include <iostream>
 
+/*
+ *
 int main()
 {
     using namespace std;
@@ -19,3 +21,4 @@ int main()
     cout << "cups value = " << cups << " and cups address = " << &cups << endl;
     
 }
+ */
