@@ -13,6 +13,8 @@
 
 using std::string;
 
+/*
+ *
 class TableTennisPlayer
 {
 private:
@@ -38,7 +40,8 @@ public:
                  const string & ln = "none", bool ht = false);
     RatedPlayer (unsigned int r, const TableTennisPlayer & tp);
     unsigned int Rating() const {return rating;}
-    void ResetRating (unsigned int r) {rating = r;} 
+    void ResetRating (unsigned int r) {rating = r;}
 };
+ */
 
 #endif /* list_13_1_tabtenn0_hpp */

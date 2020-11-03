@@ -17,6 +17,8 @@ TableTennisPlayer::TableTennisPlayer (const string & fn,
                                       bool ht) : firstname(fn), lastname(ln), hasTable(ht){}
  */
 
+/*
+ *
  // 第二种写法
 TableTennisPlayer::TableTennisPlayer (const string & fn, const string & ln, bool ht)
 {
@@ -29,3 +31,4 @@ void TableTennisPlayer::Name() const
 {
     std::cout << lastname << " " << firstname;
 }
+ */

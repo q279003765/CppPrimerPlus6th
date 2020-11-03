@@ -11,6 +11,8 @@
 #include <iostream>
 #include "list_13_1_tabtenn0.h"
 
+/*
+ *
 int main()
 {
     using std::cout;
@@ -33,3 +35,4 @@ int main()
     
     return 0;
 }
+ */
