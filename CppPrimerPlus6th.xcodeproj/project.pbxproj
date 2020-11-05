@@ -24,6 +24,7 @@
 		53E063B8254FF5C100185D74 /* list_13_3_usett0.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 53E063B6254FF5C100185D74 /* list_13_3_usett0.cpp */; };
 		53E063BB255009A400185D74 /* list_13_4_tabtenn1.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 53E063B9255009A400185D74 /* list_13_4_tabtenn1.cpp */; };
 		53E063BE2550101400185D74 /* list_13_6_usett1.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 53E063BC2550101400185D74 /* list_13_6_usett1.cpp */; };
+		53E063C12552DB0200185D74 /* list_13_7_brass.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 53E063BF2552DB0200185D74 /* list_13_7_brass.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -73,6 +74,8 @@
 		53E063BA255009A400185D74 /* list_13_4_tabtenn1.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = list_13_4_tabtenn1.h; sourceTree = "<group>"; };
 		53E063BC2550101400185D74 /* list_13_6_usett1.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = list_13_6_usett1.cpp; sourceTree = "<group>"; };
 		53E063BD2550101400185D74 /* list_13_6_usett1.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = list_13_6_usett1.h; sourceTree = "<group>"; };
+		53E063BF2552DB0200185D74 /* list_13_7_brass.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = list_13_7_brass.cpp; sourceTree = "<group>"; };
+		53E063C02552DB0200185D74 /* list_13_7_brass.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = list_13_7_brass.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -138,6 +141,8 @@
 				53E063BC2550101400185D74 /* list_13_6_usett1.cpp */,
 				53E063BD2550101400185D74 /* list_13_6_usett1.h */,
 				5304E1E82543CC51003EF925 /* main.cpp */,
+				53E063BF2552DB0200185D74 /* list_13_7_brass.cpp */,
+				53E063C02552DB0200185D74 /* list_13_7_brass.h */,
 			);
 			path = CppPrimerPlus6th;
 			sourceTree = "<group>";
@@ -200,6 +205,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				5373A3EB2546976D004F3E54 /* list_4_2_string.cpp in Sources */,
+				53E063C12552DB0200185D74 /* list_13_7_brass.cpp in Sources */,
 				53E063B5254FF20300185D74 /* list_13_1_tabtenn0.cpp in Sources */,
 				5304E1E92543CC51003EF925 /* main.cpp in Sources */,
 				5373A4002546CC91004F3E54 /* list_10_3_usestock0.cpp in Sources */,
